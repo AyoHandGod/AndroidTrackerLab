@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "390674884317",
+    "firebase_url": "https://trackerlab-be56f.firebaseio.com",
+    "project_id": "trackerlab-be56f",
+    "storage_bucket": "trackerlab-be56f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390674884317:android:f011a123f79a2bfb",
+        "android_client_info": {
+          "package_name": "com.nerdroco.admin.transporttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390674884317-j97k34trc7tthcnn485u1nmc1j2juokp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nerdroco.admin.transporttracker",
+            "certificate_hash": "76ab6b19079bb983e78d9c18be4af04500996a29"
+          }
+        },
+        {
+          "client_id": "390674884317-n4j02q5pdeuaclsdsv2oerc3bgbc9qlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDod3k7SgpKVT8AhiQdnI1OxytjhfuLrbs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390674884317-n4j02q5pdeuaclsdsv2oerc3bgbc9qlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
